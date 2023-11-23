@@ -32,12 +32,12 @@ $(document).ready(function(){
         } 
     });
 
-    $(window).scroll(function(){
+    /*$(window).scroll(function(){
         console.log($(document).scrollTop());
             if ($(document).scrollTop() > 700) {
              $(".story h2").animate({bottom:'150px'},2000)
         } 
-    });  
+    });*/
       
 });
 
